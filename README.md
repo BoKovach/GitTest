@@ -1,2 +1,2 @@
-# GitTest
-Repository for a GitHub lecture at SoftUni
+# Git Test
+Repository for a GitHub lecture at SoftUni.
